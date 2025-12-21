@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksymrosokha&label=Profile%20views&color=0e75b6&style=flat" alt="maksymrosokha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maksymrosokha" alt="maksymrosokha" /></a> </p>
-
 - 📫 How to reach me **maksimrosoha6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maksym-rosokha-b03612292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maksym-rosokha-b03612292/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61566345012228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61566345012228" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/r_maks_v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/r_maks_v/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/maksym-rosokha-b03612292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/maksym-rosokha-b03612292" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=61566345012228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=61566345012228" height="30" width="40" /></a>
+<a href="https://instagram.com/r_maks_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_maks_v" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maksymrosokha&show_icons=true&locale=en&layout=compact" alt="maksymrosokha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maksymrosokha&show_icons=true&locale=en" alt="maksymrosokha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maksymrosokha&" alt="maksymrosokha" /></p>
