@@ -1,8 +1,8 @@
-<h3 align="center">Hi 👋! My name is Maksym Rosokha and I'm a student at the University of the National Education Commission in Cracow, Poland</h3>
+<h2 align="center">Hi 👋! My name is Maksym Rosokha and I'm a student at the University of the National Education Commission in Cracow, Poland</h2>
 
 ###
 
-<img align="right" height="150" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
+<img align="right" height="180" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
 
 ###
 
@@ -58,25 +58,22 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="https://www.linkedin.com/in/maksym-rosokha-b03612292/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="50" alt="linkedin logo"  />
   </a>
-  <a href="maksimrosoha6@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="50" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/r_maks_v/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="68" height="50" alt="instagram logo"  />
-  </a>
   <a href="https://www.facebook.com/profile.php?id=61566345012228" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="68" height="50" alt="facebook logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="68" height="50" alt="instagram logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouzaf/maurodesouzaf/output/snake.svg" alt="Snake animation" />
+<p align="center">maksimrosoha6@gmail.com</p>
 
 ###
