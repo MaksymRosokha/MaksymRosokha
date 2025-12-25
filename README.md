@@ -61,7 +61,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/maksym-rosokha-b03612292/" target="_blank">
+  <a href="https://www.linkedin.com/in/maksymrosokha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61566345012228" target="_blank">
